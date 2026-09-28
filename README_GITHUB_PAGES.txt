@@ -3,7 +3,7 @@ KOKOS GMAIL SIGNATURES – GITHUB PAGES
 KAJ JE V PAKETU
 - index.html: stran za vse zaposlene z gumbom »Kopiraj podpis«
 - assets/: KOKOS logo, portreti in badgei
-- signatures/: posamezni HTML podpisi
+- signatures/: posamezni HTML podpisi in splošni podpis Kokos Agency
 - .nojekyll: GitHub Pages naj datoteke servira neposredno
 
 POSTAVITEV NA GITHUB PAGES
